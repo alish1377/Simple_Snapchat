@@ -12,4 +12,4 @@ https://github.com/alish1377/Simple_Snapchat/blob/261e6938ed9c0902b56d1482f66bf0
 <img src="https://github.com/alish1377/Simple_Snapchat/blob/261e6938ed9c0902b56d1482f66bf08cbcc1f2e5/asset/Screenshot%20from%202024-02-08%2010-14-24.png" title="First_mask_image"/>
 
 asset/Screenshot from 2024-02-08 10-15-37.png
-<img src="https://github.com/alish1377/Simple_snapchat/asset/Screenshot from 2024-02-08 10-15-37.png" title="Second_mask_image"/>
+<img src="https://github.com/alish1377/Simple_Snapchat/asset/Screenshot from 2024-02-08 10-15-37.png" title="Second_mask_image"/>
