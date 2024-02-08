@@ -9,4 +9,4 @@ Some results of this work:
 
 <img src="https://github.com/alish1377/Simple_Snapchat/blob/main/asset/Screenshot%20from%202024-02-08%2010-14-24.png"/>
 <img src="https://github.com/alish1377/Simple_Snapchat/blob/main/asset/Screenshot%20from%202024-02-08%2010-15-37.png"/>
-<img src="https://github.com/alish1377/Simple_Snapchat/blob/main/asset/Screenshot%20from%202024-02-08%2010-14-24.png"/>
+<img src="https://github.com/alish1377/Simple_Snapchat/blob/main/asset/Screenshot%20from%202024-02-08%2010-16-31.png"/>
